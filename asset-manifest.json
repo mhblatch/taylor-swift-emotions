@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taylor-swift-emotions/static/css/main.f6a6d382.chunk.css",
+    "main.js": "/taylor-swift-emotions/static/js/main.c7a182ea.chunk.js",
+    "main.js.map": "/taylor-swift-emotions/static/js/main.c7a182ea.chunk.js.map",
+    "runtime-main.js": "/taylor-swift-emotions/static/js/runtime-main.7b126260.js",
+    "runtime-main.js.map": "/taylor-swift-emotions/static/js/runtime-main.7b126260.js.map",
+    "static/js/2.605be4b5.chunk.js": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js",
+    "static/js/2.605be4b5.chunk.js.map": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js.map",
+    "static/js/3.9ecd674c.chunk.js": "/taylor-swift-emotions/static/js/3.9ecd674c.chunk.js",
+    "static/js/3.9ecd674c.chunk.js.map": "/taylor-swift-emotions/static/js/3.9ecd674c.chunk.js.map",
+    "index.html": "/taylor-swift-emotions/index.html",
+    "static/css/main.f6a6d382.chunk.css.map": "/taylor-swift-emotions/static/css/main.f6a6d382.chunk.css.map",
+    "static/js/2.605be4b5.chunk.js.LICENSE.txt": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b126260.js",
+    "static/js/2.605be4b5.chunk.js",
+    "static/css/main.f6a6d382.chunk.css",
+    "static/js/main.c7a182ea.chunk.js"
+  ]
+}
