@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/taylor-swift-emotions/static/css/main.f6a6d382.chunk.css",
-    "main.js": "/taylor-swift-emotions/static/js/main.c7a182ea.chunk.js",
-    "main.js.map": "/taylor-swift-emotions/static/js/main.c7a182ea.chunk.js.map",
-    "runtime-main.js": "/taylor-swift-emotions/static/js/runtime-main.7b126260.js",
-    "runtime-main.js.map": "/taylor-swift-emotions/static/js/runtime-main.7b126260.js.map",
-    "static/js/2.605be4b5.chunk.js": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js",
-    "static/js/2.605be4b5.chunk.js.map": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js.map",
-    "static/js/3.9ecd674c.chunk.js": "/taylor-swift-emotions/static/js/3.9ecd674c.chunk.js",
-    "static/js/3.9ecd674c.chunk.js.map": "/taylor-swift-emotions/static/js/3.9ecd674c.chunk.js.map",
+    "main.css": "/taylor-swift-emotions/static/css/main.74e5d100.chunk.css",
+    "main.js": "/taylor-swift-emotions/static/js/main.6b20ec2a.chunk.js",
+    "main.js.map": "/taylor-swift-emotions/static/js/main.6b20ec2a.chunk.js.map",
+    "runtime-main.js": "/taylor-swift-emotions/static/js/runtime-main.0ecc8b1a.js",
+    "runtime-main.js.map": "/taylor-swift-emotions/static/js/runtime-main.0ecc8b1a.js.map",
+    "static/js/2.db76931c.chunk.js": "/taylor-swift-emotions/static/js/2.db76931c.chunk.js",
+    "static/js/2.db76931c.chunk.js.map": "/taylor-swift-emotions/static/js/2.db76931c.chunk.js.map",
+    "static/js/3.ab2e3cac.chunk.js": "/taylor-swift-emotions/static/js/3.ab2e3cac.chunk.js",
+    "static/js/3.ab2e3cac.chunk.js.map": "/taylor-swift-emotions/static/js/3.ab2e3cac.chunk.js.map",
     "index.html": "/taylor-swift-emotions/index.html",
-    "static/css/main.f6a6d382.chunk.css.map": "/taylor-swift-emotions/static/css/main.f6a6d382.chunk.css.map",
-    "static/js/2.605be4b5.chunk.js.LICENSE.txt": "/taylor-swift-emotions/static/js/2.605be4b5.chunk.js.LICENSE.txt"
+    "static/css/main.74e5d100.chunk.css.map": "/taylor-swift-emotions/static/css/main.74e5d100.chunk.css.map",
+    "static/js/2.db76931c.chunk.js.LICENSE.txt": "/taylor-swift-emotions/static/js/2.db76931c.chunk.js.LICENSE.txt",
+    "static/media/angry-face.a718112a.png": "/taylor-swift-emotions/static/media/angry-face.a718112a.png",
+    "static/media/happy-face.f61004ac.png": "/taylor-swift-emotions/static/media/happy-face.f61004ac.png",
+    "static/media/sad-face.06154f84.png": "/taylor-swift-emotions/static/media/sad-face.06154f84.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b126260.js",
-    "static/js/2.605be4b5.chunk.js",
-    "static/css/main.f6a6d382.chunk.css",
-    "static/js/main.c7a182ea.chunk.js"
+    "static/js/runtime-main.0ecc8b1a.js",
+    "static/js/2.db76931c.chunk.js",
+    "static/css/main.74e5d100.chunk.css",
+    "static/js/main.6b20ec2a.chunk.js"
   ]
 }
